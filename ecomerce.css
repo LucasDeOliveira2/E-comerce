@@ -1,0 +1,53 @@
+a,p{
+color: rgb(0, 0, 0);
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+h1{
+font-family:'Courier New', Courier, monospace;
+color: aliceblue;
+background-color: rgb(255, 255, 255);
+}
+
+.carousel-item {
+
+    width: 600px;
+    height: 10%;
+    background-color: rgb(235, 235, 235);
+    position: relative;
+    left: 30%;
+}
+
+div{
+    background-color: rgb(255, 255, 255);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.product {
+    background-color: #ffffff;
+    padding: 10px;
+    margin: 0px 0;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+.product button {
+    padding: 10px;
+    background-color: #464646;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.product button:hover {
+    background-color: #464646;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
